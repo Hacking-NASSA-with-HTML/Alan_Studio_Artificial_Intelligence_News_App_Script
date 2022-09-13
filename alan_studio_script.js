@@ -56,4 +56,4 @@ const confirm = context(() => {
 // https://lucinda-news.netlify.app/
 //
 // Give this repo a Star
-// https://github.com/Hacking-NASSA-with-HTML/Alan_AI_news_app
+// https://github.com/Hacking-NASSA-with-HTML/alan_ai_news_app
